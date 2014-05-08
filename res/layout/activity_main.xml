@@ -42,7 +42,7 @@
              android:layout_height="wrap_content"
              android:layout_span="4"
              android:onClick="resetSteps"
-             android:text="Reset Steps" />
+             android:text="《Reset Steps》" />
      </TableRow>
      <TableRow 
          android:id="@+id/tableRow3"
